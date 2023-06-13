@@ -9,7 +9,7 @@
 
 - Live in **Central Java, Indonesia**
 
-- Studying [***Midle School***]([https://smkn4palembang.sch.id/](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a0c5195a-2df5-e011-954f-81c8baf8cc6f))
+- Studying [***Midle School***](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a0c5195a-2df5-e011-954f-81c8baf8cc6f)
 
 - Good with **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
 
@@ -26,7 +26,7 @@
   
 - 📗 [***rizkaalt/myanime***](https://github.com/rizkaalt/My-Anime) <br/>
   Anime Website
-- 📘 [***rizkaalt/marin kitagawa md bot wa***]([https://github.com/Elliottophellia/kyoko](https://github.com/rizkaalt/Marin-Kitagawa-MD-Bot.git)) <br/>
+- 📘 [***rizkaalt/marin kitagawa md bot wa***](https://github.com/rizkaalt/Marin-Kitagawa-MD-Bot.git) <br/>
   Whatsapp bot 
 - 📙 [***rizkaalt/music bot***](https://github.com/rizkaalt/Music-bot) <br/>
   Discord Music Bot
