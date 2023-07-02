@@ -1,6 +1,4 @@
 <div>
-<img src="./img/Profile-elaina.png" width="300" align="right" />
-<br/>
 <img src="./img/AboutMe-elaina.png" width="500" />
 <br/>
 <br/>
@@ -20,8 +18,6 @@
 - Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
 
 - My Language  **Indonesia (main language), English (2nd Language)**
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
-<br/>
 <img src="./img/Repo-elaina.png" width="500" />
 <br/>
 <br/>
