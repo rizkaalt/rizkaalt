@@ -3,13 +3,12 @@
 <br/>
 <br/>
   
-- Name **Rizka**
+- Name **Rizzz**
   
 - Gender **Boy**
 
 - Live in **Central Java, Indonesia**
 
-- Studying  [***Midle School***](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/a0c5195a-2df5-e011-954f-81c8baf8cc6f)
 
 - Good wit **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
 
