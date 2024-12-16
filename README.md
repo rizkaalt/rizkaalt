@@ -14,7 +14,6 @@
 
 - Have high experience with **Termux** and **Visual Code**
   
-- Familiar with **Debian**, **Ubuntu**, **Fedora**, **Arch**, **Void** and **OpenSUSE**
 
 - My Language  **Indonesia (main language), English (2nd Language)**
 <img src="./img/Repo-elaina.png" width="500" />
