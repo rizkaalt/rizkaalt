@@ -8,11 +8,6 @@
 - Gender **Boy**
 
 - Live in **Central Java, Indonesia**
-
-
-- Good wit **Javascript** , **Typescript** , **PHP** , **Bash** , **CSS** , **HTML** and **Python**
-
-- Have high experience with **Termux** and **Visual Code**
   
 
 - My Language  **Indonesia (main language), English (2nd Language)**
@@ -22,8 +17,6 @@
   
 - 📗 [***rizkaalt/myanime***](https://github.com/rizkaalt/My-Anime) <br/>
   Anime Website
-- 📘 [***rizkaalt/marin kitagawa md bot wa***](https://github.com/rizkaalt/Marin-Kitagawa-MD-Bot.git) <br/>
-  Whatsapp bot 
 - 📙 [***rizkaalt/music bot***](https://github.com/rizkaalt/Music-bot) <br/>
   Discord Music Bot
 - 📕 [***My Telegram***](https://t.me/rizka00u) <br/>
