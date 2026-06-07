@@ -54,10 +54,6 @@ const calisa = {
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calisa&show_icons=true&locale=en&layout=compact)](https://github.com/rizkaalt)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=calisa&show_icons=true&theme=radical)](https://github.com/rizkaalt)
-
 [![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=calisa&theme=monokai)](https://github.com/rizkaalt)
 
 </div>
