@@ -36,33 +36,25 @@ Suka anime, suka ngoding dari HP, dan suka hal-hal lucu!
 </div>
 
 ```
- ╭─ 🧙‍♀️ GRIMOIRE PENYIHIR ─────────────────
- │
- │  ✦ Nama      Calisa ✨
- │  ✦ Alias     Calisaa 🧙‍♀️
- │  ✦ Status    just vibe coder 🪄
- │  ✦ Lokasi    Indonesia 🇮🇩
- │
- │  ✦ Hobi      Ngoding dari HP 📱
- │              Nonton anime 🎌
- │              Eksplor hal baru 🗺️
- │
- │  ✦ Perkakas  Doa · Niat · Ubuntu VPS · CLI
- │
- │  ✦ Motto     Seperti Elaina — terus mengembara,
- │              terus berkembang~ 🌿
- │
- ╰────────────────────────────────────────────
+Grimoire Penyihir
+
+Nama     : Calisa
+Alias    : Calisaa
+Status   : just vibe coder
+Lokasi   : Indonesia
+Hobi     : Ngoding · Anime · Eksplor
+Perkakas : Doa · Niat · VPS · CLI
+Motto    : terus mengembara~
 ```
 
 <div align="center">
 
-**✨ Sihir yang dikuasai ✨**
+✨ Sihir yang dikuasai ✨
 
-![JavaScript](https://img.shields.io/badge/JavaScript-C9A8E0?style=for-the-badge&logo=javascript&logoColor=1a0533&labelColor=1a0533)
-![Node.js](https://img.shields.io/badge/Node.js-C9A8E0?style=for-the-badge&logo=nodedotjs&logoColor=1a0533&labelColor=1a0533)
-![MongoDB](https://img.shields.io/badge/MongoDB-C9A8E0?style=for-the-badge&logo=mongodb&logoColor=1a0533&labelColor=1a0533)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-C9A8E0?style=for-the-badge&logo=html5&logoColor=1a0533&labelColor=1a0533)
+https://img.shields.io/badge/JavaScript-C9A8E0?style=for-the-badge&logo=javascript&logoColor=1a0533&labelColor=1a0533
+https://img.shields.io/badge/Node.js-C9A8E0?style=for-the-badge&logo=nodedotjs&logoColor=1a0533&labelColor=1a0533
+https://img.shields.io/badge/MongoDB-C9A8E0?style=for-the-badge&logo=mongodb&logoColor=1a0533&labelColor=1a0533
+https://img.shields.io/badge/HTML%2FCSS-C9A8E0?style=for-the-badge&logo=html5&logoColor=1a0533&labelColor=1a0533
 
 </div>
 
@@ -71,18 +63,18 @@ Suka anime, suka ngoding dari HP, dan suka hal-hal lucu!
 <img align="left" src="img/elaina-cheer.png" width="150" alt="Elaina cheer" />
 <img align="right" src="img/Waifu-elainaa.png" width="110" alt="Waifu" />
 
-> *"Perjalanan yang indah dimulai dari langkah kecil yang berani."*
-> — terinspirasi dari **Elaina**, *Majo no Tabi-tabi* ✨
+"Perjalanan yang indah dimulai dari langkah kecil yang berani."
+— terinspirasi dari Elaina, Majo no Tabi-tabi ✨
 
 <br clear="all" />
 
 ---
 
-### 📊 Github Stats
+📊 Github Stats
 
 <div align="center">
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkaalt&theme=dracula)](https://github.com/rizkaalt)
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizkaalt&theme=dracula
 
 </div>
 
@@ -93,12 +85,12 @@ Suka anime, suka ngoding dari HP, dan suka hal-hal lucu!
 
 <br />
 
-🛍️ **Store :** [florysa.my.id](https://florysa.my.id)
+🛍️ Store : florysa.my.id
 
 <img src="img/elaina-happy.png" width="130" alt="Elaina happy" />
 
-[![Visitor Badge](https://komarev.com/ghpvc/?username=rizkaalt&color=C9A8E0&style=for-the-badge&label=Pengunjung+Penyihir)](https://github.com/rizkaalt)
+https://komarev.com/ghpvc/?username=rizkaalt&color=C9A8E0&style=for-the-badge&label=Pengunjung+Penyihir
 
-*Terima kasih sudah mampir ke duniaku~ また来てね！✨*
+Terima kasih sudah mampir ke duniaku~ また来てね！✨
 
 </div>
